@@ -21,6 +21,7 @@ public class Test {
 
     public static void trackUseCases(List<Integer> useCases, Class<?> cl) {
         for (Method m : cl.getDeclaredMethods()) {
+            //此用例是获取方法上的注释，若想获取类上的注释则使用clazz.getAnnotation()来获取
             UseCase uc = m.getAnnotation(UseCase.class);
             if (uc != null) {
                 System.out.println("Found Use Case:" + uc.id() + " "
