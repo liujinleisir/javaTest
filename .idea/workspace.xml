@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375d5889-3f45-45c9-9612-51b781a436dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/AMDCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/AMDMainBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/HuangMenChicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/IntelCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/LanZhouNoodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/model/MainBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/AmericanFoodA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/AmericanFoodB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/AmericanFoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/ChineseFoodA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/ChineseFoodB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/ChineseFoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/b_FoodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/AMDCPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/AmdMainBoardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/CPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/IntelCPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/MainBoardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/创建型模式/简单工厂模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/dfasf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/fasf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTest/testAnnotation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTest/testAnnotation/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -104,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoSomeThingServiceProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DoSomeThingServiceProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -221,7 +195,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="265" />
     <option name="y" value="5" />
     <option name="width" value="1300" />
@@ -587,15 +561,16 @@
       <updated>1548056186972</updated>
       <workItem from="1548056190412" duration="4981000" />
       <workItem from="1548121067675" duration="1800000" />
-      <workItem from="1548637838385" duration="19820000" />
+      <workItem from="1548637838385" duration="20108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26601000" />
+    <option name="totallyTimeSpent" value="26889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -606,7 +581,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -1046,13 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/fasdfa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1069,8 +1037,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="270">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>

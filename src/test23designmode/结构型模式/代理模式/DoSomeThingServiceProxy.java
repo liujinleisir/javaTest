@@ -11,8 +11,8 @@ public class DoSomeThingServiceProxy implements DoSomeThingService {
     @Override
     public void someThing() {
         DoSomeThingService ds = new DoSomeThingServiceImpl();
-        System.out.println("代理说：开始吧");
+        System.out.println("代理：开始吧");
         ds.someThing();
-        System.out.println("代理说：这头猪表演完毕");
+        System.out.println("代理：这头猪表演完毕");
     }
 }
