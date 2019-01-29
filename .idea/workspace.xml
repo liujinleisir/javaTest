@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375d5889-3f45-45c9-9612-51b781a436dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/DrawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Testt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTest/test/Testt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Testt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Testt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,93 +22,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChickAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/ChickAdapter.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="162">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreditOrgBaseInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/CreditOrgBaseInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/Testt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/DrawAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedCircle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/RedCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GreenCircle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/GreenCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test反射/Person.java">
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="140">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="testMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test反射/testMain.java">
+        <entry file="file://$PROJECT_DIR$/src/test泛型/testMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
-              <caret line="94" column="38" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoSomeThingService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoSomeThingServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding>
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoSomeThingServiceProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChickMoudel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/ChickMoudel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -124,6 +139,7 @@
       <find>Runnable</find>
       <find>clone</find>
       <find>setAccessible</find>
+      <find>//去除不是日期格式</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,14 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/MainBoardFactory.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/CPU.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/CPUFactory.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/AMDCPUFactory.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/model/AMDCPU.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/AmdMainBoardFactory.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/Computer.java" />
-        <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/IntelCPUFactory.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/model/IntelCPU.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/model/CPU.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/创建型模式/工厂模式/IntelMainBoardFactory.java" />
@@ -183,6 +191,14 @@
         <option value="$PROJECT_DIR$/src/test反射/testMain.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/fsa.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/fasfa.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/asfdf.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/sfas.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/fas.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/Testt.java" />
       </list>
     </option>
   </component>
@@ -195,7 +211,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="265" />
     <option name="y" value="5" />
     <option name="width" value="1300" />
@@ -207,7 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,6 +235,12 @@
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -245,7 +267,9 @@
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test反射" type="462c0819:PsiDirectoryNode" />
+              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
+              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
+              <item name="桥梁模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -267,6 +291,21 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -369,13 +408,13 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlyersTMS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-Blog/My-Blog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -413,7 +452,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="JUnit.Testt.ttt">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test23designmode.结构型模式.代理模式.Test" />
       <module name="javaTest" />
@@ -425,46 +464,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test23designmode.结构型模式.适配器模式.类适配器模式.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test23designmode.结构型模式.桥梁模式.Test" />
       <module name="javaTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test23designmode.结构型模式.适配器模式.类适配器模式.*" />
+          <option name="PATTERN" value="test23designmode.结构型模式.桥梁模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test23designmode.结构型模式.适配器模式.对象适配器模式.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test23designmode.结构型模式.桥梁模式.Test1" />
       <module name="javaTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test23designmode.结构型模式.适配器模式.对象适配器模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test23designmode.创建型模式.建造者模式.Test" />
-      <module name="javaTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test23designmode.创建型模式.建造者模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test23designmode.创建型模式.工厂模式.Test" />
-      <module name="javaTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test23designmode.model.*" />
+          <option name="PATTERN" value="test23designmode.结构型模式.桥梁模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,6 +510,52 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Testt.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Testt" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Testt.ttt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Testt" />
+      <option name="METHOD_NAME" value="ttt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -533,19 +596,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test (5)" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="JUnit.Testt.test" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="JUnit.Testt.ttt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Testt.ttt" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="JUnit.Testt.test" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -562,14 +625,32 @@
       <workItem from="1548056190412" duration="4981000" />
       <workItem from="1548121067675" duration="1800000" />
       <workItem from="1548637838385" duration="20108000" />
+      <workItem from="1548725110662" duration="7428000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Testt_test - 2019.01.29 at 12h 23m 48s.xml">
+      <configuration name="Testt.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test - 2019.01.29 at 12h 23m 58s.xml">
+      <configuration name="Testt.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_test - 2019.01.29 at 12h 29m 41s.xml">
+      <configuration name="Testt.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_ttt - 2019.01.29 at 17h 21m 32s.xml">
+      <configuration name="Testt.ttt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Testt_ttt - 2019.01.29 at 17h 22m 35s.xml">
+      <configuration name="Testt.ttt" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26889000" />
+    <option name="totallyTimeSpent" value="34317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -581,12 +662,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546917" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2580429" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -634,85 +715,27 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testt.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/DrawAPI.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/CPUFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/MainBoardFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/ComputerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/创建型模式/抽象工厂模式/AmdFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
-          <folding>
-            <element signature="e#6390#6391#0" expanded="true" />
-            <element signature="e#6438#6439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testAnnotation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
           <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,10 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,10 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,10 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="55" column="44" lean-forward="true" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
-          <folding>
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -900,10 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -921,24 +928,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/Duck.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/Chick.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/对象适配器模式/ChickAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,39 +946,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/ChickMoudel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/类适配器模式/ChickAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="198">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,7 +979,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test反射/testMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
+        <state relative-caret-position="1602">
           <caret line="94" column="38" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="38" />
         </state>
       </provider>
@@ -1006,46 +987,105 @@
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="198">
           <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/fasdfa.java">
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/fasdfa.java" />
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/rqwerqwer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/CreditOrgBaseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test泛型/testMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/DrawAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/RedCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/GreenCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/桥梁模式/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/rqwerqwer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Testt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/DoSomeThingServiceProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="241">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
         </state>
       </provider>
     </entry>

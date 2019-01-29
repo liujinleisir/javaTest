@@ -50,6 +50,11 @@ public class Testt {
 
     @Test
     public void test() {
+        String date = new SimpleDateFormat("yyyyMMdd").format(new Date());
+        Integer dateYear = Integer.valueOf(date.substring(0,4));
+        Integer dateMouth = Integer.valueOf(date.substring(4,6));
+        Integer dateDay = Integer.valueOf(date.substring(6,8));
+
         Integer dateNowInt = Integer.valueOf(new SimpleDateFormat("yyyyMMdd").format(new Date()));
         int num = 0;//遍历次数
         fff:
@@ -78,5 +83,11 @@ public class Testt {
                 continue;
             }
         }
+    }
+    @Test
+    public void ttt(){
+        Date date = new Date(1532707200000l);
+        System.out.println(date);
+
     }
 }
