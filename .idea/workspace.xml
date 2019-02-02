@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="375d5889-3f45-45c9-9612-51b781a436dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test/Testt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test23designmode/行为型模式/责任链模式/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTest/test23designmode/行为型模式/责任链模式/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Testt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test面试/NearestDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test面试/NearestDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test面试/NearestDate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +71,17 @@
       <file leaf-file-name="NearestDate.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test面试/NearestDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="18">
+              <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -653,7 +659,7 @@
       <workItem from="1548898870750" duration="7567000" />
       <workItem from="1548984577248" duration="1215000" />
       <workItem from="1549000986331" duration="2616000" />
-      <workItem from="1549072231197" duration="7207000" />
+      <workItem from="1549072231197" duration="7824000" />
     </task>
     <servers />
   </component>
@@ -690,10 +696,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56383000" />
+    <option name="totallyTimeSpent" value="57000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -847,19 +853,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/装饰模式/Mango.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/装饰模式/Lemon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1250,10 +1243,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test面试/NearestDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="18">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
         </state>
       </provider>
     </entry>

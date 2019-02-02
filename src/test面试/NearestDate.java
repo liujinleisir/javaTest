@@ -45,6 +45,8 @@ public class NearestDate {
     public void test2() {
         Calendar calendar = Calendar.getInstance();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+        //定义set集合为了利用set集合的不重复特性来排除重复日期的元素
+        Set<Character> set = new HashSet<>();
         int num = 0;//遍历次数
         flag:
         while (true) {
@@ -55,14 +57,15 @@ public class NearestDate {
             Integer dateInt = Integer.valueOf(dateStr);
             //去重
             char[] dateArray = dateInt.toString().toCharArray();
-            Set<Character> set = new HashSet<>();
             for (int j = 0; j < dateArray.length; j++) {
                 set.add(dateArray[j]);
             }
             if (set.size() != 8) {
                 //说明有重复
+                set.clear();
                 continue;
             } else {
+                set.clear();
                 System.out.println(dateInt.toString());
                 System.out.println("遍历次数：" + num);
                 break flag;
