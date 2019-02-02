@@ -17,13 +17,13 @@ import java.lang.reflect.Method;
 public class creatMoudel {
     @Test
     public void test() {
-        Class clazz = CreditOrgBaseInfo.class;
+        Class clazz = AAA.class;
         Method[] methods =  clazz.getMethods();
         StringBuffer sb = new StringBuffer();
         for (Method method: methods) {
            String name = method.getName();
            if(name.startsWith("set")){
-               sb.append("creditOrgBaseInfo."+name+"(customerAddOrgRequest.get"+name.substring(3,name.length())+"());"+"\n");
+               sb.append("BBB."+name+"(AAA.get"+name.substring(3,name.length())+"());"+"\n");
            }
         }
         System.out.println(sb);
