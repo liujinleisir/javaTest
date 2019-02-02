@@ -8,7 +8,9 @@ package test23designmode.行为型模式.责任链模式;
  * @version 1.0
  */
 public class Test {
-
+    //注：此demo的流程配置在main方法，时间还可优化
+    //正常的流程一般是很少变的，流程可配置到类中
+    //稍微动脑筋还可以写一个流程配置的util类
     public static void main(String[] args) {
         Context context = new Context();
         context.setNewUser(true);
