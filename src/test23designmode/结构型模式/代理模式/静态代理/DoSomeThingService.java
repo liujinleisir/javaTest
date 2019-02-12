@@ -1,4 +1,4 @@
-package test23designmode.结构型模式.代理模式;
+package test23designmode.结构型模式.代理模式.静态代理;
 
 /**
  * Title:
