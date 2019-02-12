@@ -23,7 +23,7 @@ public class creatMoudel {
         for (Method method: methods) {
            String name = method.getName();
            if(name.startsWith("set")){
-               sb.append("BBB."+name+"(AAA.get"+name.substring(3,name.length())+"());"+"\n");
+               sb.append("obj1."+name+"(obj2.get"+name.substring(3,name.length())+"());"+"\n");
            }
         }
         System.out.println(sb);
