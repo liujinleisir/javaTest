@@ -1,0 +1,19 @@
+
+平常经常遇到if else，如：
+if(a == 1){
+	//dosomething
+}else if(a == 2){
+	//dosomething
+}else if(a == 3){
+	//dosomething
+} else{
+	//dosomething
+}
+
+然而后续程序的更新迭代
+if else 代码量增多，修改的时候还得小心翼翼，其实每个if else 里面都相当于一个策略，
+所以引出了策略模式来替换 if else
+
+定义一个接口
+ExcuteInterface 用来处理业务逻辑
+
