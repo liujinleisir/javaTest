@@ -1,5 +1,6 @@
 package test23designmode.行为型模式.策略模式.killifandelse;
 
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,6 +17,8 @@ public class Test {
             Test.test(1);
             Test.test(2);
             Test.test(3);
+System.out.println(          Long.toString(new Date().getTime()/1000)
+);
 
         }catch (Exception e){
             e.printStackTrace();
