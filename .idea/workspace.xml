@@ -4,131 +4,35 @@
     <bookmark url="file://$PROJECT_DIR$/src/test23designmode/结构型模式/装饰模式/GreenTea.java" description="System.out.println(&quot;绿茶&quot;);" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="375d5889-3f45-45c9-9612-51b781a436dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/解释.txt" afterDir="false" />
+    <list default="true" id="375d5889-3f45-45c9-9612-51b781a436dd" name="Default" comment="测试提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTest/test23designmode/结构型模式/代理模式/动态代理/ProxyTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="解释.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/解释.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/OutOfMearry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExcuteInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteInterface.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/适配器模式/对象适配器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcuteA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcuteElse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteElse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcuteB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcuteAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="13" selection-end-line="48" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-882">
-              <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+            <state relative-caret-position="47940">
+              <caret line="2886" column="37" selection-start-line="2886" selection-start-column="37" selection-end-line="2886" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -169,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/Context.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/Test.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/fasdf.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/观察者模式/fasf.java" />
@@ -220,17 +123,9 @@
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteA.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/ExcuteAdapter.java" />
         <option value="$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/OutOfMearry.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="305" />
@@ -245,7 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,97 +151,18 @@
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="对象适配器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="结构型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="默认适配器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="策略模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test23designmode" type="462c0819:PsiDirectoryNode" />
-              <item name="行为型模式" type="462c0819:PsiDirectoryNode" />
-              <item name="策略模式" type="462c0819:PsiDirectoryNode" />
-              <item name="killifandelse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="testAnnotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test面试" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test面试" type="462c0819:PsiDirectoryNode" />
-              <item name="testclassloader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test面试" type="462c0819:PsiDirectoryNode" />
-              <item name="testclassloader" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -356,80 +172,6 @@
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javafx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javafx" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jfxrt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javafx" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="plugin.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin2" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -450,99 +192,18 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="text" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="sun" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/crms729_20190221" />
@@ -742,6 +403,21 @@
       <workItem from="1549935165721" duration="6299000" />
       <workItem from="1550021980371" duration="14236000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <created>1565314219616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565314219616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试提交">
+      <created>1565314316687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565314316687</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -777,77 +453,78 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84742000" />
+    <option name="totallyTimeSpent" value="85135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3479491" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.288874" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31541726" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3479491" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31541726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.417256" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31541726" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289225" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.417256" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31541726" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289225" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,7 +607,6 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -969,20 +645,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="745" column="64" selection-start-line="745" selection-start-column="52" selection-end-line="745" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="266" column="43" selection-start-line="266" selection-start-column="36" selection-end-line="266" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Math.java" />
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Random.java" />
     <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/责任链模式/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1025,11 +689,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7290" />
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Array.java" />
     <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/责任链模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1044,27 +704,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4608">
-          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5904">
-          <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Calendar.java" />
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/util/Set.java" />
     <entry file="file://$PROJECT_DIR$/src/test/creatMoudel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1177,13 +819,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/InvocationHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/动态代理/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1195,13 +831,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Proxy.java" />
     <entry file="file://$PROJECT_DIR$/src/test23designmode/结构型模式/代理模式/动态代理/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1250,20 +880,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-882">
-          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/Class.java" />
+    <entry file="jar://E:/SoftTools/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java" />
     <entry file="file://$PROJECT_DIR$/src/test23designmode/行为型模式/策略模式/killifandelse/解释.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
